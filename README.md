@@ -28,7 +28,7 @@
 	  `email` VARCHAR(50) NOT NULL COLLATE 'utf8mb4_general_ci',
 	  PRIMARY KEY (`userName`) USING BTREE
     )<br>
-  INSERT INTO user VALUES('quang','123456a', 'quang@gmail.com')
+  INSERT INTO user VALUES('huy','123456a', 'huy@gmail.com')
 ```
 
 ========================================
