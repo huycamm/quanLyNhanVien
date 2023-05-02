@@ -33,8 +33,8 @@
 
 ========================================
 
-#Các bước cài đặt:
-1. Tải và cài đặt JDK cho máy tính của bạn bằng cách tải phiên bản phù hợp với hệ điều hành của bạn
+#Chạy dự án thông qua Eclipse EE:
+1. Mở Eclipse.
 2. Clone dự án từ Github bằng cách làm theo các bước sau đây:<nr>
         Mở Eclipse trên máy tính của bạn.<br>
         Chọn menu `File > Import` để mở hộp thoại `Import`.<br>
